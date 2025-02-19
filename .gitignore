@@ -2,7 +2,8 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+conda
 
-# OCRCorrection input and output folder 
+# OCRCorrecqtion input and output folder 
 input
 output
