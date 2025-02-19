@@ -1,0 +1,8 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OCRCorrection input and output folder 
+input
+output
