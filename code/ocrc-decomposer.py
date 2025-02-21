@@ -62,7 +62,7 @@ def main():
     parser.add_argument(
         "--out", 
         type=str, 
-        default="extracted_images", 
+        default="output", 
         help="Output folder for extracted txt and images files (default: the name of the pdf file)."
     )
 

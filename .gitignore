@@ -3,6 +3,7 @@
 .AppleDouble
 .LSOverride
 conda
+keys.json
 
 # OCRCorrecqtion input and output folder 
 input
